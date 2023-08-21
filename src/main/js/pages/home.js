@@ -124,6 +124,7 @@ class VentaDetalle extends React.Component {
 				<td>{this.props.ventaDetalle.nom_clien}</td>
 				<td>{this.props.ventaDetalle.cantidad}</td>
 				
+				
 				<td>
 					<Link to={`/ver-detalleVenta/${id}`}>Ver Detalle</Link>
 					
