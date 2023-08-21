@@ -1,3 +1,11 @@
 body{
-    background-color: rgb(231, 201, 172);
+    background-color: rgb(211, 140, 140);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
 }
